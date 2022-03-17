@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         var i = 0
+        
+        i+= 1
+        print(i)
     }
 
 
